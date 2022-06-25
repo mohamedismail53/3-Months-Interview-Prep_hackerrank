@@ -7,7 +7,15 @@
 
 # 📝 Table of Content
 - [ ] [Week-1](/week1)
+  <br>
   * [Plus Minus](/week1/1_Plus_Minus.cpp) 
+  * [Mini-Max Sum](/week1/2_Mini-Max_Sum.cpp)
+  * [Time Conversion](/week1/3_Time_Conversion.cpp)
+  * [Mini-Max Sum](/week1/4_Breaking_the_Records.cpp)
+  * [Mini-Max Sum](/week1/5_Camel_Case_4.cpp)
+  * [Mini-Max Sum](/week1/6_Divisible_Sum_Pairs.cpp)
+  * [Mini-Max Sum](/week1/7_Sparse_Arrays.cpp)
+  * [Mini-Max Sum](/week1/8_Mock_Test_1.cpp)
 - [ ] [Week-2](/week2)
 - [ ] [Week-3](/week3)
 - [ ] [Week-4](/week4)
