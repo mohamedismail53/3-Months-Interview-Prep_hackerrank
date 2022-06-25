@@ -7,6 +7,7 @@
 
 # 📝 Table of Content
 - [ ] [Week-1](/week1)
+  * [Plus Minus](/week1/1_Plus_Minus.cpp) 
 - [ ] [Week-2](/week2)
 - [ ] [Week-3](/week3)
 - [ ] [Week-4](/week4)
